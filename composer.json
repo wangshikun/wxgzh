@@ -1,15 +1,16 @@
 {
-    "name": "wangshikun/wx-other",
+    "name": "wangshikun/wxgzh",
+    "version": "1.0.0",
+    "time": "2020-07-02",
     "authors": [
         {
             "name": "wangshikun",
             "email": "1535315077@qq.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
-            "wangshikun\\wxOther\\": "src/"
+            "wxgzh\\": "src/"
         }
     }
 }
