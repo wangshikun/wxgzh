@@ -1,0 +1,15 @@
+{
+    "name": "wangshikun/wxOther",
+    "authors": [
+        {
+            "name": "wangshikun",
+            "email": "1535315077@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "wangshikun\\wxOther\\": "src/"
+        }
+    }
+}
