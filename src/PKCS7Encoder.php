@@ -1,5 +1,5 @@
 <?php
-namespace wxgzh;
+namespace  wsk\wxgzh;
 /**
  * PKCS7Encoder class
  *

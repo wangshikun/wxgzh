@@ -1,5 +1,5 @@
 <?php
-namespace wxgzh;
+namespace wsk\wxgzh;
 /**
  * error code 说明.
  * <ul>

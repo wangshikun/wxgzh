@@ -1,7 +1,7 @@
 <?php
-namespace  wxgzh;
+namespace  wsk\wxgzh;;
 
-use wxgzh\WXBizMsgCrypt;
+use  wsk\wxgzh\WXBizMsgCrypt;
 /**
  * Class WxAuth
  * @package wxgzh

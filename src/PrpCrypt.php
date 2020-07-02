@@ -1,6 +1,6 @@
 <?php
 
-namespace wxgzh;
+namespace  wsk\wxgzh;
 /**
  * Prpcrypt class
  *

@@ -1,5 +1,5 @@
 <?php
-namespace wxgzh;
+namespace  wsk\wxgzh;
 /**
  * SHA1 class
  *
