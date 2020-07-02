@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "wxgzh\\": "src/"
+            "wangshikun\\wxgzh\\": "src/"
         }
     }
 }
